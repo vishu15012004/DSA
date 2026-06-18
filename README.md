@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vishu15012004/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vishu15012004/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vishu15012004/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/vishu15012004/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vishu15012004/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vishu15012004/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
