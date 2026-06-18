@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vishu15012004/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vishu15012004/DSA/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -23,4 +24,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vishu15012004/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/vishu15012004/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vishu15012004/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
