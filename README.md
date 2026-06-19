@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishu15012004/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vishu15012004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishu15012004/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/vishu15012004/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishu15012004/DSA/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vishu15012004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vishu15012004/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishu15012004/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vishu15012004/DSA/tree/master/0189-rotate-array) |
