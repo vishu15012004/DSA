@@ -8,4 +8,4 @@ class Solution:
             s += num % 10
             num //= 10
 
-        return self.addDigits(s)
+        return self.addDigits(s)  
